@@ -1,4 +1,4 @@
-
+This is [an example](http://example.com/ "Title") inline link.
 
 #Problem Statement-#
 Perform 5 analysis on European Soccer Database.
