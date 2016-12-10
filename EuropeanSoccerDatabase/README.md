@@ -30,6 +30,8 @@ Perform 5 analysis on European Soccer Database. The dataset can be accessed from
      ![Alt text](https://github.com/Pragya1025/Python4DataAnalysis/blob/master/EuropeanSoccerDatabase/Graph/output4/Athletic%20Club%20de%20Bilbao%20Match%20%20Stats.png)
 *  Analysis5.ipynb: Combine Player and player attributes to compare the attributes like balance, shot power, stamina and strength and sort it by age of the players
      ![Alt text](https://github.com/Pragya1025/Python4DataAnalysis/blob/master/EuropeanSoccerDatabase/Graph/output5.png)
+	 
+	  ![Alt text](https://github.com/Pragya1025/Python4DataAnalysis/blob/master/EuropeanSoccerDatabase/Graph/output5_b.png)
 
 ##Dependencies:##
 * python: 3.5 or higher (prefered: Python 3.5.2 Latest version)
