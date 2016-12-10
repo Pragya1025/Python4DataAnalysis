@@ -1,3 +1,5 @@
+![Alt text](/path/to/img.jpg)
+
 This is [an example](http://example.com/ "Title") inline link.
 
 #Problem Statement-#
