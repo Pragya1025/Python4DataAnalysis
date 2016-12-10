@@ -21,11 +21,14 @@ Perform 5 analysis on European Soccer Database. The dataset can be accessed from
 
 ##Analysis:##
 
-*  Analysis1.py: In year 2013 and 2014 those player with highest overall rating used which foot left or right. This categories the player in left and right preferred foot in the year 2013 and 2014.Result set has top 8 players each.
-*  Analysis2.py: Country or League grouped by season and stage and compare home team goal and away team goal.
-*  Analysis3.py: FOR EPL, get the Team Attributes for each team over the seasons present in the Match.
-*  Analysis4.py: In LA LIGA, Stat of each of the team over the period of years
-*  Analysis5.py: Combine Player and player attributes to compare the attributes like balance, shot power, stamina and strength and sort it by age of the players
+*  Analysis1.ipynb: In year 2013 and 2014 those player with highest overall rating used which foot left or right. This gives the player according to the left and right preferred foot in the year 2013 and 2014.Result set has top 8 players each.
+*  Analysis2.ipynb: Country or League grouped by season and stage and compare home team goal and away team goal.
+     ![Alt text](https://github.com/Pragya1025/Python4DataAnalysis/blob/master/EuropeanSoccerDatabase/Graph/output2/2008-2009.png)
+*  Analysis3.ipynb: FOR EPL, get the Team Attributes for each team over the seasons present in the Match.
+       ![Alt text](https://github.com/Pragya1025/Python4DataAnalysis/blob/master/EuropeanSoccerDatabase/Graph/output3/Arsenal%20%20Stats.png)
+*  Analysis4.ipynb: In LA LIGA, Stat of each of the team over the period of years
+     ![Alt text](https://github.com/Pragya1025/Python4DataAnalysis/blob/master/EuropeanSoccerDatabase/Graph/output4/Athletic%20Club%20de%20Bilbao%20Match%20%20Stats.png)
+*  Analysis5.ipynb: Combine Player and player attributes to compare the attributes like balance, shot power, stamina and strength and sort it by age of the players
 
 ##Dependencies:##
 * python: 3.5 or higher (prefered: Python 3.5.2 Latest version)
