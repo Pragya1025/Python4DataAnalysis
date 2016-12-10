@@ -1,4 +1,4 @@
-![Alt text](/path/to/img.jpg)
+![Alt text](https://github.com/Pragya1025/Python4DataAnalysis/blob/master/EuropeanSoccerDatabase/img.jpg)
 
 This is [an example](http://example.com/ "Title") inline link.
 
