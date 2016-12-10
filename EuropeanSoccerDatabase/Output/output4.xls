@@ -1,0 +1,300 @@
+	team_api_id	team_long_name
+0	9987	KRC Genk
+1	9993	Beerschot AC
+2	10000	SV Zulte-Waregem
+3	9994	Sporting Lokeren
+4	9984	KSV Cercle Brugge
+5	8635	RSC Anderlecht
+6	9991	KAA Gent
+7	9998	RAEC Mons
+8	7947	FCV Dender EH
+9	9985	Standard de Liège
+10	8203	KV Mechelen
+11	8342	Club Brugge KV
+12	9999	KSV Roeselare
+13	8571	KV Kortrijk
+14	4049	Tubize
+15	9996	Royal Excel Mouscron
+16	10001	KVC Westerlo
+17	9986	Sporting Charleroi
+18	9997	Sint-Truidense VV
+19	9989	Lierse SK
+20	6351	KAS Eupen
+21	1773	Oud-Heverlee Leuven
+22	8475	Waasland-Beveren
+23	8573	KV Oostende
+24	274581	Royal Excel Mouscron
+25	10260	Manchester United
+26	10261	Newcastle United
+27	9825	Arsenal
+28	8659	West Bromwich Albion
+29	8472	Sunderland
+30	8650	Liverpool
+31	8654	West Ham United
+32	8528	Wigan Athletic
+33	10252	Aston Villa
+34	8456	Manchester City
+35	8668	Everton
+36	8655	Blackburn Rovers
+37	8549	Middlesbrough
+38	8586	Tottenham Hotspur
+39	8559	Bolton Wanderers
+40	10194	Stoke City
+41	8667	Hull City
+42	9879	Fulham
+43	8455	Chelsea
+44	8462	Portsmouth
+45	8658	Birmingham City
+46	8602	Wolverhampton Wanderers
+47	8191	Burnley
+48	8483	Blackpool
+49	10003	Swansea City
+50	10172	Queens Park Rangers
+51	9850	Norwich City
+52	8466	Southampton
+53	9798	Reading
+54	9826	Crystal Palace
+55	8344	Cardiff City
+56	8197	Leicester City
+57	8678	Bournemouth
+58	9817	Watford
+59	8583	AJ Auxerre
+60	9830	FC Nantes
+61	9827	Girondins de Bordeaux
+62	7819	SM Caen
+63	9746	Le Havre AC
+64	9831	OGC Nice
+65	8682	Le Mans FC
+66	8689	FC Lorient
+67	9748	Olympique Lyonnais
+68	9941	Toulouse FC
+69	9829	AS Monaco
+70	9847	Paris Saint-Germain
+71	8481	AS Nancy-Lorraine
+72	8639	LOSC Lille
+73	9851	Stade Rennais FC
+74	8592	Olympique de Marseille
+75	9874	FC Sochaux-Montbéliard
+76	9855	Grenoble Foot 38
+77	9873	Valenciennes FC
+78	9853	AS Saint-Étienne
+79	8588	RC Lens
+80	10249	Montpellier Hérault SC
+81	4170	US Boulogne Cote D'Opale
+82	108893	AC Arles-Avignon
+83	8521	Stade Brestois 29
+84	8576	AC Ajaccio
+85	4087	Évian Thonon Gaillard FC
+86	9836	Dijon FCO
+87	9837	Stade de Reims
+88	7794	SC Bastia
+89	10242	ES Troyes AC
+90	9747	En Avant de Guingamp
+91	8550	FC Metz
+92	8121	Angers SCO
+93	6391	GFC Ajaccio
+94	9823	FC Bayern Munich
+95	9790	Hamburger SV
+96	8178	Bayer 04 Leverkusen
+97	9789	Borussia Dortmund
+98	10189	FC Schalke 04
+99	9904	Hannover 96
+100	8721	VfL Wolfsburg
+101	8722	1. FC Köln
+102	9810	Eintracht Frankfurt
+103	8177	Hertha BSC Berlin
+104	9912	DSC Arminia Bielefeld
+105	8697	SV Werder Bremen
+106	8398	FC Energie Cottbus
+107	8226	TSG 1899 Hoffenheim
+108	9788	Borussia Mönchengladbach
+109	10269	VfB Stuttgart
+110	8295	Karlsruher SC
+111	9911	VfL Bochum
+112	8358	SC Freiburg
+113	8165	1. FC Nürnberg
+114	9905	1. FSV Mainz 05
+115	8350	1. FC Kaiserslautern
+116	8152	FC St. Pauli
+117	8406	FC Augsburg
+118	8194	Fortuna Düsseldorf
+119	8357	SpVgg Greuther Fürth
+120	9776	Eintracht Braunschweig
+121	8460	SC Paderborn 07
+122	8234	FC Ingolstadt 04
+123	8262	SV Darmstadt 98
+124	8524	Atalanta
+125	8551	Siena
+126	8529	Cagliari
+127	8543	Lazio
+128	8530	Catania
+129	10233	Genoa
+130	8533	Chievo Verona
+131	8690	Reggio Calabria
+132	8535	Fiorentina
+133	9885	Juventus
+134	8564	Milan
+135	9857	Bologna
+136	8686	Roma
+137	9875	Napoli
+138	9882	Sampdoria
+139	8636	Inter
+140	9804	Torino
+141	9888	Lecce
+142	8600	Udinese
+143	8540	Palermo
+144	9976	Bari
+145	8537	Livorno
+146	10167	Parma
+147	9880	Cesena
+148	9858	Brescia
+149	6269	Novara
+150	9878	Pescara
+151	9876	Hellas Verona
+152	7943	Sassuolo
+153	8534	Empoli
+154	9891	Frosinone
+155	208931	Carpi
+156	8277	Vitesse
+157	8674	FC Groningen
+158	9803	Roda JC Kerkrade
+159	8611	FC Twente
+160	8525	Willem II
+161	8593	Ajax
+162	8464	N.E.C.
+163	8526	De Graafschap
+164	9908	FC Utrecht
+165	8640	PSV
+166	9791	Heracles Almelo
+167	10235	Feyenoord
+168	8614	Sparta Rotterdam
+169	10217	ADO Den Haag
+170	6601	FC Volendam
+171	10228	SC Heerenveen
+172	10229	AZ
+173	9761	NAC Breda
+174	10219	RKC Waalwijk
+175	9839	VVV-Venlo
+176	10218	Excelsior
+177	6413	PEC Zwolle
+178	7788	SC Cambuur
+179	6433	Go Ahead Eagles
+180	6631	FC Dordrecht
+181	10265	Wisła Kraków
+182	8031	Polonia Bytom
+183	8020	Polonia Bytom
+184	1601	Ruch Chorzów
+185	8673	Legia Warszawa
+186	2183	P. Warszawa
+187	8025	Śląsk Wrocław
+188	8030	Lechia Gdańsk
+189	8244	Widzew Łódź
+190	8242	Odra Wodzisław
+191	2182	Lech Poznań
+192	8569	GKS Bełchatów
+193	8322	Arka Gdynia
+194	1957	Jagiellonia Białystok
+195	8028	Piast Gliwice
+196	2186	Cracovia
+197	8245	Korona Kielce
+198	8021	Zagłębie Lubin
+199	8024	Widzew Łódź
+200	8033	Podbeskidzie Bielsko-Biała
+201	8023	Pogoń Szczecin
+202	8027	Zawisza Bydgoszcz
+203	8019	Górnik Łęczna
+204	177361	Termalica Bruk-Bet Nieciecza
+205	9773	FC Porto
+206	9807	CF Os Belenenses
+207	9768	Sporting CP
+208	7992	Trofense
+209	7844	Vitória Guimarães
+210	10238	Vitória Setúbal
+211	6403	FC Paços de Ferreira
+212	10264	SC Braga
+213	10213	Amadora
+214	10215	Académica de Coimbra
+215	7841	Rio Ave FC
+216	9772	SL Benfica
+217	6421	Leixões SC
+218	10214	CD Nacional
+219	9809	Naval 1° de Maio
+220	10212	CS Marítimo
+221	9771	União de Leiria, SAD
+222	2033	S.C. Olhanense
+223	9765	Portimonense
+224	10211	SC Beira Mar
+225	4064	Feirense
+226	9764	Gil Vicente FC
+227	8348	Moreirense FC
+228	7842	Estoril Praia
+229	158085	FC Arouca
+230	6547	FC Penafiel
+231	8613	Boavista FC
+232	6367	Uniao da Madeira
+233	188163	Tondela
+234	8596	Falkirk
+235	8548	Rangers
+236	9860	Heart of Midlothian
+237	9927	Motherwell
+238	8597	Kilmarnock
+239	10251	Hibernian
+240	8485	Aberdeen
+241	8066	Inverness Caledonian Thistle
+242	9925	Celtic
+243	9800	St. Mirren
+244	8429	Hamilton Academical FC
+245	9938	Dundee United
+246	8467	St. Johnstone FC
+247	8457	Dunfermline Athletic
+248	8284	Dundee FC
+249	8649	Ross County FC
+250	8426	Partick Thistle F.C.
+251	10267	Valencia CF
+252	8661	RCD Mallorca
+253	8371	CA Osasuna
+254	10205	Villarreal CF
+255	9783	RC Deportivo de La Coruña
+256	8633	Real Madrid CF
+257	8388	CD Numancia
+258	8634	FC Barcelona
+259	8696	Racing Santander
+260	8302	Sevilla FC
+261	9869	Real Sporting de Gijón
+262	8305	Getafe CF
+263	8603	Real Betis Balompié
+264	8479	RC Recreativo
+265	8558	RCD Espanyol
+266	10281	Real Valladolid
+267	8315	Athletic Club de Bilbao
+268	9865	UD Almería
+269	9906	Atlético Madrid
+270	9864	Málaga CF
+271	9868	Xerez Club Deportivo
+272	8394	Real Zaragoza
+273	9867	CD Tenerife
+274	10278	Hércules Club de Fútbol
+275	8581	Levante UD
+276	8560	Real Sociedad
+277	7878	Granada CF
+278	8370	Rayo Vallecano
+279	9910	RC Celta de Vigo
+280	10268	Elche CF
+281	8372	SD Eibar
+282	7869	Córdoba CF
+283	8306	UD Las Palmas
+284	9956	Grasshopper Club Zürich
+285	6493	AC Bellinzona
+286	10192	BSC Young Boys
+287	9931	FC Basel
+288	9930	FC Aarau
+289	10179	FC Sion
+290	10199	FC Luzern
+291	9824	FC Vaduz
+292	7955	Neuchâtel Xamax
+293	10243	FC Zürich
+294	10190	FC St. Gallen
+295	10191	FC Thun
+296	9777	Servette FC
+297	7730	FC Lausanne-Sports
+298	7896	Lugano
