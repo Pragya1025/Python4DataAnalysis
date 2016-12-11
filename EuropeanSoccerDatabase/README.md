@@ -38,6 +38,27 @@ Perform 5 analysis on European Soccer Database. The dataset can be accessed from
 ##Analysis:##
 
 *  Analysis1.ipynb: In year 2013 and 2014 those player with highest overall rating used which foot left or right. This gives the player according to the left and right preferred foot in the year 2013 and 2014.Result set has top 8 players each.
+###Result Dataset###
+| Playr Name | Preferred Foot |Year | Overall Rating    | 
+| --------|---------|-------|--------|
+|Lionel Messi|left|2014	|94|
+|Arjen Robben|left|2014|90|
+|Robin van Persie|left|2014|89|
+|Iker Casillas|left|2014|88|
+|David Silva|left|2014|88|
+|Gareth Bale|left|2014|87|
+|Mesut Oezil|left|2014|87|
+|Juan Mata|left|2014|87|
+|Cristiano Ronaldo|right|2014|92|
+|Xavi Hernandez|right|2014|90|
+|Andres Iniesta|right|2014|90|
+|Manuel Neuer|right|2014|90|
+|Radamel Falcao|right|2014|90|
+|Zlatan Ibrahimovic|right|2014|90|
+|Franck Ribery|right|2014|90|
+|Luis Suarez|right|2014|89|
+
+
 *  Analysis2.ipynb: Country or League grouped by season and stage and compare home team goal and away team goal.
      ![Alt text](https://github.com/Pragya1025/Python4DataAnalysis/blob/master/EuropeanSoccerDatabase/Graph/output2/2008-2009.png)
 *  Analysis3.ipynb: FOR EPL, get the Team Attributes for each team over the seasons present in the Match.
