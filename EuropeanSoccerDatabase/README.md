@@ -23,9 +23,9 @@ Perform 5 analysis on European Soccer Database. The dataset can be accessed from
 
 | Id     | Player_api_id    |player_name | player_fifa_api_id    | birthday    |height | weight     | 
 | --------|---------|-------|--------|---------|-------|--------|
-|505942 |	 Aaron Appindangoye| 218353 |1992-02-29 00:00:00 |182.88 |187 
-|55782 	 |Aaron Cresswell|189615 |1989-12-15 00:00:00 |170.18 |146 
-|162549 	|Aaron Doran |186170 |1991-05-13 00:00:00 |170.18 |163 
+|505942 | Aaron Appindangoye| 218353 |1992-02-29 00:00:00 |182.88 |187 
+|55782 |Aaron Cresswell|189615 |1989-12-15 00:00:00 |170.18 |146 
+|162549 |Aaron Doran |186170 |1991-05-13 00:00:00 |170.18 |163 
  |30572 | Aaron Galindo |140161 |1982-05-08 00:00:00 |182.88 |198 
  |23780 |Aaron Hughes |17725 |1979-11-08 00:00:00 |182.88 |154 
  |27316 | Aaron Hunt |158138 |1986-09-04 00:00:00 |182.88 |161 
