@@ -88,6 +88,13 @@ Perform 5 analysis on European Soccer Database. The dataset can be accessed from
 * pip install matplotlib
 * pip install numpy
 
+##Folder Structure-##
+* Dataset- Available by clicking the dropbox link provided
+* Analysis- Contains all the five analysis in **ipynb** format
+* Output- Saves all the result dataset in *xls* format
+* Graph - Saves the graph from analysis 2,3 and 4
+
+
 ##Contributing Points:##
 * Graph for analysis2,3 and 4 gets stored in a separate  folder
 * There is no graph for analysis 1 as it gives basic stats only
