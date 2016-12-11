@@ -19,6 +19,22 @@ Perform 5 analysis on European Soccer Database. The dataset can be accessed from
 *	Betting odds from up to 10 providers
 *	Detailed match events (goal types, possession, corner, cross, fouls, cards etc...) for +10,000 matches
 
+##Sample Dataset##
+
+| Id     | Player_api_id    |player_name | player_fifa_api_id    | birthday    |height | weight     | 
+| --------|---------|-------|--------|---------|-------|--------|
+|505942 |	 Aaron Appindangoye| 218353 |1992-02-29 00:00:00 |182.88 |187 
+|55782 	 |Aaron Cresswell|189615 |1989-12-15 00:00:00 |170.18 |146 
+|162549 	|Aaron Doran |186170 |1991-05-13 00:00:00 |170.18 |163 
+ |30572 | Aaron Galindo |140161 |1982-05-08 00:00:00 |182.88 |198 
+ |23780 |Aaron Hughes |17725 |1979-11-08 00:00:00 |182.88 |154 
+ |27316 | Aaron Hunt |158138 |1986-09-04 00:00:00 |182.88 |161 
+ |564793 | Aaron Kuhl |221280 |1996-01-30 00:00:00 |172.72 |146 
+ |30895 |Aaron Lennon |152747 |1987-04-16 00:00:00 |165.1 |139 
+ |528212|Aaron Lennox|206592 |1993-02-19 00:00:00|190.5 |181 
+ |101042 |Aaron Meijers|188621|  1987-10-28 00:00:00|175.26 |170 
+
+
 ##Analysis:##
 
 *  Analysis1.ipynb: In year 2013 and 2014 those player with highest overall rating used which foot left or right. This gives the player according to the left and right preferred foot in the year 2013 and 2014.Result set has top 8 players each.
